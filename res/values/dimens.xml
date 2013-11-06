@@ -130,4 +130,6 @@
     <dimen name="tab_divider_padding">12dp</dimen>
     <!-- Size of text in tabs. -->
     <dimen name="tab_text_size">12sp</dimen>
+    <!-- Size of the pie chart in the call stats detail activity -->
+    <dimen name="call_stats_details_chart_size">140dip</dimen>
 </resources>
