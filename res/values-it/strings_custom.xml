@@ -18,8 +18,8 @@
  */
 -->
 <resources>
-  <string name="call_log_incoming_title">Bejövő</string>
-  <string name="call_log_outgoing_title">Kimenő</string>
-  <string name="recentIncoming_empty">Nincs bejövő hívás.</string>
-  <string name="recentOutgoing_empty">Nincs kimenő hívás.</string>
+  <string name="call_log_incoming_title">Chiamate In Entrata</string>
+  <string name="call_log_outgoing_title">Chiamate In Uscita</string>
+  <string name="recentIncoming_empty">Nessuna chiamata in entrata recente.</string>
+  <string name="recentOutgoing_empty">Nessuna chiamata in uscita recente.</string>
 </resources>
