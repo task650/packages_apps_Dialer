@@ -18,8 +18,8 @@
  */
 -->
 <resources>
-  <string name="call_log_incoming_title">Chiamate In Entrata</string>
-  <string name="call_log_outgoing_title">Chiamate In Uscita</string>
+  <string name="call_log_incoming_title">Chiamate in entrata</string>
+  <string name="call_log_outgoing_title">Chiamate in uscita</string>
   <string name="recentIncoming_empty">Nessuna chiamata in entrata recente.</string>
   <string name="recentOutgoing_empty">Nessuna chiamata in uscita recente.</string>
 </resources>
