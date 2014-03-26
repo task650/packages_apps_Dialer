@@ -17,4 +17,9 @@
  * limitations under the License.
  */
 -->
-<resources/>
+<resources>
+  <string name="call_log_incoming_title">着信</string>
+  <string name="call_log_outgoing_title">発信</string>
+  <string name="recentIncoming_empty">着信履歴はありません。</string>
+  <string name="recentOutgoing_empty">発信履歴はありません。</string>
+</resources>

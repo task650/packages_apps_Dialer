@@ -17,4 +17,9 @@
  * limitations under the License.
  */
 -->
-<resources/>
+<resources>
+  <string name="call_log_incoming_title">Preluate</string>
+  <string name="call_log_outgoing_title">Efectuate</string>
+  <string name="recentIncoming_empty">Nu sunt apeluri preluate recent.</string>
+  <string name="recentOutgoing_empty">Nu sunt apeluri efectuate recent.</string>
+</resources>
