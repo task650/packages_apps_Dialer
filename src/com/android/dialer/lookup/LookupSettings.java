@@ -93,10 +93,10 @@ public final class LookupSettings {
     private static String getLookupProvider(Context context,
             String key, String defaultValue) {
         ContentResolver cr = context.getContentResolver();
-        String provider = Settings.System.getString(cr, key);
+        String provider = Settings.AOKP.getString(cr, key);
 
         if (provider == null) {
-            Settings.System.putString(cr, key, defaultValue);
+            Settings.AOKP.putString(cr, key, defaultValue);
             return defaultValue;
         }
 
