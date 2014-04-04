@@ -49,41 +49,41 @@ public final class LookupSettings {
     }
 
     public static boolean isForwardLookupEnabled(Context context) {
-        return Settings.System.getInt(context.getContentResolver(),
-                Settings.System.ENABLE_FORWARD_LOOKUP, 1) != 0;
+        return Settings.AOKP.getInt(context.getContentResolver(),
+                Settings.AOKP.ENABLE_FORWARD_LOOKUP, 1) != 0;
     }
 
     public static boolean isPeopleLookupEnabled(Context context) {
-        return Settings.System.getInt(context.getContentResolver(),
-                Settings.System.ENABLE_PEOPLE_LOOKUP, 1) != 0;
+        return Settings.AOKP.getInt(context.getContentResolver(),
+                Settings.AOKP.ENABLE_PEOPLE_LOOKUP, 1) != 0;
     }
 
     public static boolean isReverseLookupEnabled(Context context) {
-        return Settings.System.getInt(context.getContentResolver(),
-                Settings.System.ENABLE_REVERSE_LOOKUP, 1) != 0;
+        return Settings.AOKP.getInt(context.getContentResolver(),
+                Settings.AOKP.ENABLE_REVERSE_LOOKUP, 1) != 0;
     }
 
     public static String getForwardLookupProvider(Context context) {
         String provider = getLookupProvider(context,
-                Settings.System.FORWARD_LOOKUP_PROVIDER, FLP_DEFAULT);
+                Settings.AOKP.FORWARD_LOOKUP_PROVIDER, FLP_DEFAULT);
 
         return provider;
     }
 
     public static String getPeopleLookupProvider(Context context) {
         String provider = getLookupProvider(context,
-                Settings.System.PEOPLE_LOOKUP_PROVIDER, PLP_DEFAULT);
+                Settings.AOKP.PEOPLE_LOOKUP_PROVIDER, PLP_DEFAULT);
 
         return provider;
     }
 
     public static String getReverseLookupProvider(Context context) {
         String provider = getLookupProvider(context,
-                Settings.System.REVERSE_LOOKUP_PROVIDER, RLP_DEFAULT);
+                Settings.AOKP.REVERSE_LOOKUP_PROVIDER, RLP_DEFAULT);
 
         if ("Google".equals(provider)) {
-            Settings.System.putString(context.getContentResolver(),
-                    Settings.System.REVERSE_LOOKUP_PROVIDER, RLP_DEFAULT);
+            Settings.AOKP.putString(context.getContentResolver(),
+                    Settings.AOKP.REVERSE_LOOKUP_PROVIDER, RLP_DEFAULT);
             provider = RLP_DEFAULT;
         }
 
