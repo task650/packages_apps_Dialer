@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">발신</string>
   <string name="recentIncoming_empty">최근 수신 전화 없음</string>
   <string name="recentOutgoing_empty">최근 발신 전화 없음</string>
+  <string name="nearby_places">가까운 장소</string>
+  <string name="people">주소록</string>
 </resources>

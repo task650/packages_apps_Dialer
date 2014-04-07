@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Odchozí</string>
   <string name="recentIncoming_empty">Žádné příchozí hovory.</string>
   <string name="recentOutgoing_empty">Žádné odchozí hovory.</string>
+  <string name="nearby_places">Blízká místa</string>
+  <string name="people">Lidé</string>
 </resources>

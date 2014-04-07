@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Ausgehend</string>
   <string name="recentIncoming_empty">Keine neuen Anrufe empfangen.</string>
   <string name="recentOutgoing_empty">Keine kürzlich getätigten Anrufe.</string>
+  <string name="nearby_places">Orte in der Nähe</string>
+  <string name="people">Kontakte</string>
 </resources>

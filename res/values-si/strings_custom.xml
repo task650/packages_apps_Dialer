@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">ලබාගත්</string>
   <string name="recentIncoming_empty">මෑත කාලීන පැමිණි ඇමතුම් නැත.</string>
   <string name="recentOutgoing_empty">මෑත කාලීන ලබාගත් ඇමතුම් නැත.</string>
+  <string name="nearby_places">අවට ස්ථාන</string>
+  <string name="people">ප්‍රජාව</string>
 </resources>

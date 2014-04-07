@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Исходящие</string>
   <string name="recentIncoming_empty">Последние входящие отсутствуют.</string>
   <string name="recentOutgoing_empty">Последние исходящие отсутствуют.</string>
+  <string name="nearby_places">Места рядом</string>
+  <string name="people">Контакты</string>
 </resources>

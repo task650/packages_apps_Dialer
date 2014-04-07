@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Giden</string>
   <string name="recentIncoming_empty">Son gelen arama yok.</string>
   <string name="recentOutgoing_empty">Son giden arama yok.</string>
+  <string name="nearby_places">Yakın yerler</string>
+  <string name="people">Kişiler</string>
 </resources>
