@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Enviadas</string>
   <string name="recentIncoming_empty">Não há chamadas recentes.</string>
   <string name="recentOutgoing_empty">Não há chamadas recentes.</string>
+  <string name="nearby_places">Locais próximos</string>
+  <string name="people">Pessoas</string>
 </resources>

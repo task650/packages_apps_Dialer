@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">発信</string>
   <string name="recentIncoming_empty">着信履歴はありません。</string>
   <string name="recentOutgoing_empty">発信履歴はありません。</string>
+  <string name="nearby_places">周辺スポット</string>
+  <string name="people">人物</string>
 </resources>

@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">呼叫</string>
   <string name="recentIncoming_empty">近期没有来电。</string>
   <string name="recentOutgoing_empty">近期没有呼叫。</string>
+  <string name="nearby_places">附近地点</string>
+  <string name="people">联系人</string>
 </resources>

@@ -17,4 +17,11 @@
  * limitations under the License.
  */
 -->
-<resources/>
+<resources>
+  <string name="call_log_incoming_title">Đến</string>
+  <string name="call_log_outgoing_title">Đi</string>
+  <string name="recentIncoming_empty">Không có cuộc gọi đến gần đây.</string>
+  <string name="recentOutgoing_empty">Không có cuộc gọi đi gần đây.</string>
+  <string name="nearby_places">Địa điểm gần đây</string>
+  <string name="people">Danh bạ</string>
+</resources>

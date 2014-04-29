@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Utgående</string>
   <string name="recentIncoming_empty">Inga nya inkommande samtal.</string>
   <string name="recentOutgoing_empty">Inga nya utgående samtal.</string>
+  <string name="nearby_places">Närliggande platser</string>
+  <string name="people">Personer</string>
 </resources>

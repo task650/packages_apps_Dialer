@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">יוצאות</string>
   <string name="recentIncoming_empty">אין שיחות נכנסות אחרונות.</string>
   <string name="recentOutgoing_empty">אין שיחות יוצאות אחרונות.</string>
+  <string name="nearby_places">מקומות סמוכים</string>
+  <string name="people">אנשים</string>
 </resources>

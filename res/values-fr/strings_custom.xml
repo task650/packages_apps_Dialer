@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Sortant</string>
   <string name="recentIncoming_empty">Pas d\'appel entrant récent.</string>
   <string name="recentOutgoing_empty">Pas d\'appel sortant récent.</string>
+  <string name="nearby_places">Adresses à proximité</string>
+  <string name="people">Personnes</string>
 </resources>
