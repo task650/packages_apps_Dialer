@@ -17,4 +17,11 @@
  * limitations under the License.
  */
 -->
-<resources/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_log_incoming_title">來電</string>
+  <string name="call_log_outgoing_title">撥出</string>
+  <string name="recentIncoming_empty">沒有最近的撥入電話。</string>
+  <string name="recentOutgoing_empty">沒有最近的撥出電話。</string>
+  <string name="nearby_places">附近的地點</string>
+  <string name="people">聯絡人</string>
+</resources>

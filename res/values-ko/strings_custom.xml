@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="call_log_incoming_title">수신</string>
   <string name="call_log_outgoing_title">발신</string>
   <string name="recentIncoming_empty">최근 수신 전화 없음</string>

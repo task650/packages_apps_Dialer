@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="call_log_incoming_title">Entrantes</string>
   <string name="call_log_outgoing_title">Salientes</string>
   <string name="recentIncoming_empty">No hay llamadas entrantes recientes.</string>

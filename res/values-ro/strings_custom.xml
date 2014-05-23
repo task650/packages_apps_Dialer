@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="call_log_incoming_title">Preluate</string>
   <string name="call_log_outgoing_title">Efectuate</string>
   <string name="recentIncoming_empty">Nu sunt apeluri preluate recent.</string>

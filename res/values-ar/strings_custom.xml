@@ -17,4 +17,11 @@
  * limitations under the License.
  */
 -->
-<resources/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_log_incoming_title">الوارد</string>
+  <string name="call_log_outgoing_title">الفائتة</string>
+  <string name="recentIncoming_empty">لا مكالمات واردة مؤخرا.</string>
+  <string name="recentOutgoing_empty">لا مكالمات صادرة مؤخرا.</string>
+  <string name="nearby_places">الأماكن القريبة</string>
+  <string name="people">أشخاص</string>
+</resources>
