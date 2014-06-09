@@ -22,4 +22,6 @@
   <string name="call_log_outgoing_title">Efectuate</string>
   <string name="recentIncoming_empty">Nu sunt apeluri preluate recent.</string>
   <string name="recentOutgoing_empty">Nu sunt apeluri efectuate recent.</string>
+  <string name="nearby_places">Locaţii în apropiere</string>
+  <string name="people">Persoane</string>
 </resources>
