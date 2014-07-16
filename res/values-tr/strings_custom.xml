@@ -24,4 +24,6 @@
   <string name="recentOutgoing_empty">Son giden arama yok.</string>
   <string name="nearby_places">Yakın yerler</string>
   <string name="people">Kişiler</string>
+  <string name="menu_add_to_blacklist">Kara listeye ekle</string>
+  <string name="toast_added_to_blacklist">%s kara listeye eklendi.</string>
 </resources>

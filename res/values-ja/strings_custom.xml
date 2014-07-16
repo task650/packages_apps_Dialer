@@ -24,4 +24,6 @@
   <string name="recentOutgoing_empty">発信履歴はありません。</string>
   <string name="nearby_places">周辺スポット</string>
   <string name="people">人物</string>
+  <string name="menu_add_to_blacklist">ブラックリストに追加</string>
+  <string name="toast_added_to_blacklist">%sをブラックリストに追加しました</string>
 </resources>

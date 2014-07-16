@@ -24,4 +24,6 @@
   <string name="recentOutgoing_empty">Brak ostatnich połączeń wychodzących.</string>
   <string name="nearby_places">Miejsca w pobliżu</string>
   <string name="people">Ludzie</string>
+  <string name="menu_add_to_blacklist">Dodaj do czarnej listy</string>
+  <string name="toast_added_to_blacklist">%s dodano do czarnej listy.</string>
 </resources>

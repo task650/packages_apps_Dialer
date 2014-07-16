@@ -24,4 +24,6 @@
   <string name="recentOutgoing_empty">Không có cuộc gọi đi gần đây.</string>
   <string name="nearby_places">Địa điểm gần đây</string>
   <string name="people">Danh bạ</string>
+  <string name="menu_add_to_blacklist">Thêm vào danh sách đen</string>
+  <string name="toast_added_to_blacklist">%s được thêm vào danh sách đen.</string>
 </resources>

@@ -24,4 +24,6 @@
   <string name="recentOutgoing_empty">Nessuna chiamata in uscita recente.</string>
   <string name="nearby_places">Posti vicini</string>
   <string name="people">Persone</string>
+  <string name="menu_add_to_blacklist">Aggiungi alla blacklist</string>
+  <string name="toast_added_to_blacklist">%s aggiunto a blacklist.</string>
 </resources>
